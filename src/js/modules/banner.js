@@ -11,7 +11,7 @@ define(['jquery'],function($){
             ${
                 banner_list.map((v,i)=>{
                     
-                   return `<li><a href="${v.imgLink}"><img src="${v.imgUrl}"></a></li>`;
+                   return `<li><a href="${v.imgLink}"><img data-src="${v.imgUrl}"></a></li>`;
                     
                 }).join('')
             }
