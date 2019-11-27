@@ -1,0 +1,26 @@
+{
+    "type" : "banner",
+    "code" : 0,
+    "banner_list" : [
+        {
+            "imgUrl" : "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/e8e3ff53baa4c3d683765f4ca9b276d2.jpg",
+            "imgLink" : "https://item.mi.com/product/10000198.html"
+        },
+        {
+            "imgUrl" : "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/06c72a097d543daccbb7174f796f5cb8.jpg",
+            "imgLink" : "http://www.mi.com/redminote8pro"
+        },
+        {
+            "imgUrl" : "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/2e5d161390c968859fcc4bccd6f0110c.jpg",
+            "imgLink" : "https://www.mi.com/a/h/12798.html"
+        },
+        {
+            "imgUrl" : "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/e52c3e98602b90f198ec316dce253cba.jpg",
+            "imgLink" : "https://www.mi.com/mitv4c/32"
+        },
+        {
+            "imgUrl" : "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/05bc8af40fc9f9941808d253034c279d.jpg",
+            "imgLink" : "https://item.mi.com/product/9959.html"
+        }
+    ]
+}

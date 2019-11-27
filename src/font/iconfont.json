@@ -1,0 +1,72 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "485856",
+      "name": "7",
+      "font_class": "7",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "1073401",
+      "name": "右",
+      "font_class": "you",
+      "unicode": "e6f9",
+      "unicode_decimal": 59129
+    },
+    {
+      "icon_id": "1962093",
+      "name": "礼物",
+      "font_class": "liwu",
+      "unicode": "e507",
+      "unicode_decimal": 58631
+    },
+    {
+      "icon_id": "2326147",
+      "name": "对话框",
+      "font_class": "duihuakuang",
+      "unicode": "e666",
+      "unicode_decimal": 58982
+    },
+    {
+      "icon_id": "3476991",
+      "name": "15",
+      "font_class": "icon-test",
+      "unicode": "e6a5",
+      "unicode_decimal": 59045
+    },
+    {
+      "icon_id": "3547647",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e505",
+      "unicode_decimal": 58629
+    },
+    {
+      "icon_id": "3929409",
+      "name": "放大镜",
+      "font_class": "fangdajing",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "5512550",
+      "name": "定位",
+      "font_class": "dingwei",
+      "unicode": "e503",
+      "unicode_decimal": 58627
+    },
+    {
+      "icon_id": "7105046",
+      "name": "扳手",
+      "font_class": "banshou",
+      "unicode": "f07a",
+      "unicode_decimal": 61562
+    }
+  ]
+}

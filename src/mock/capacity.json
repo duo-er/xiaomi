@@ -1,0 +1,46 @@
+{
+    "type" : "capacity",
+    "title" : "智能",
+    "style":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/59e8fc8ba9718c266882719fb4bbcedd.jpg",
+    "code" : "0",
+    "goods_list" : [
+        {
+            "goodsImg" : "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/0294e2f3997bf0cffb7bf48361d03588.jpg",
+            "goodsId" : "10086466203116",
+            "goodsName" : "米家充气宝",
+            "goodsPrice" : 199,
+            "chooseColor" : "黑色",
+            "photoNormal" : "https://res.vmallres.com/pimages//product/6901443265213/group//428_428_1539243066586.png",
+            "photoLarge" : "https://res.vmallres.com/pimages//product/6901443265213/group//800_800_1539243066586.png",
+            "goodsInfo" : ["https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/b674f65677ec614814e442bacb28ffc7.jpg","https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/7808d45a420b4490c9179ea9008bbda4.jpg","https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/4f2daf381ec8e9a3d94805ce799f3fc7.jpg"]
+        },
+        {
+            "goodsImg" : "https://i8.mifile.cn/v1/a1/877d3ce8-68ab-7506-2a78-55a8c0fba946!250x250.png",
+            "goodsId" : "10086370999865",
+            "goodsName" : "九号平衡车 Plus",
+            "goodsPrice" : 3499,
+            "chooseColor" : "白色",
+            "photoNormal" : "https://res.vmallres.com/pimages//product/6901443319886/group//428_428_1560822808620.png",
+            "photoLarge" : "https://res.vmallres.com/pimages//product/6901443319886/group//800_800_1560822808620.png",
+            "goodsInfo" : ["https://res.vmallres.com/pimages/detailImg/2019/06/24/201906241527011619588.jpg","https://res.vmallres.com/pimages/detailImg/2019/09/05/C981158F781E0A3177EC6C86A48274A89957158164AF482B.jpg"]
+        },
+        {
+            "goodsImg" : "https://i8.mifile.cn/b2c-mimall-media/553b5c01820c844565abe64e50bba323!250x250.jpg",
+            "goodsId" : "10086725814724",
+            "goodsName" : "米兔遥控小飞机",
+            "goodsPrice" : 299
+        },
+        {
+            "goodsImg" : "https://i8.mifile.cn/b2c-mimall-media/18a82e7cda6ecbc22ecee7ac927d6ff9!250x250.jpg",
+            "goodsId" : "10086612323957",
+            "goodsName" : "米兔折叠婴儿推车",
+            "goodsPrice" : 629
+        },
+        {
+            "goodsImg" : "https://i8.mifile.cn/v1/a1/768992ca-4136-92f1-244a-0194a81a6360!250x250.jpg",
+            "goodsId" : "553104015",
+            "goodsName" : "小米米家电动滑板车",
+            "goodsPrice" : 1999
+        }
+    ]
+}

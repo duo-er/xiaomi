@@ -1,0 +1,49 @@
+{
+    "type" : "appliance",
+    "title" : "家电",
+    "style":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/3e63ab43e7c32296f18f34c8efb41534.jpg",
+    "code" : "0",
+    "goods_list" : [
+        {
+            "goodsImg" : "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/cd2aa2dcad6440b469c22e27db9b6236.jpg",
+            "goodsId" : "10086523442577",
+            "goodsName" : "15.6' 四核i7 16G 独显 512G",
+            "goodsPrice" : 4699,
+            "chooseColor" : "深空灰",
+            "photoNormal" : "https://res.vmallres.com/pimages//product/6901443333516/group//428_428_316C5F6A34FF343DE2020F8D49C2E96295FD7BAFAAF8E51F.jpg",
+            "photoLarge" : "https://res.vmallres.com/pimages//product/6901443333516/group//800_800_316C5F6A34FF343DE2020F8D49C2E96295FD7BAFAAF8E51F.jpg",
+            "goodsInfo" : ["https://res.vmallres.com/pimages/detailImg/2019/09/21/6915C02C41265C4750CDDC3926DB249678C29DC2E5060DF6.jpg","https://res.vmallres.com/pimages/detailImg/2019/09/21/029D3526A422419DC5B2CD346F9C1C89BB1A2D1FFDAB3C88.jpg"]
+        },
+        {
+            "goodsImg" : "https://i8.mifile.cn/v1/a1/ef617fac-7489-436d-b74e-c43582f09633!250x250.jpg",
+            "goodsId" : "10086690375130",
+            "goodsName" : "小米电视4A 32英寸",
+            "goodsPrice" : 699,
+            "goodsintro" : "人工智能系统,海量影视资源",
+            "chooseColor" : ["冰河银"],
+            "photoNormal" : "https://res.vmallres.com/pimages//product/6901443333554/428_428_425567487650BEF6BE73040F24E41C61D219680D0D80FDF7mp.png",
+            "goodsInfo" : ["https://i1.mifile.cn/f/i/2019/airconditionc1/v1/intro-video.mp4","https://res.vmallres.com/pimages/detailImg/2019/10/09/1AF2EFF202143832F4FE1E2AC2A74B8CC753C5D3271869AC.jpg"]
+        },
+        {
+            "goodsImg" : "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/ef6b4e9b9151849b3b1fb1dbf069c6ed.jpg",
+            "goodsId" : "10086586095009",
+            "goodsName" : "小米全面屏电视 55英寸",
+            "goodsintro" : "人工智能系统,海量影视资源",
+            "goodsPrice" : 1799
+        },
+        {
+            "goodsImg" : "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/ec20453216dcd42f982cffe5fdbc3115.jpg",
+            "goodsId" : "10086774565098",
+            "goodsName" : "智能洗烘，省心省力",
+            "goodsintro" : "人工智能系统,海量影视资源",
+            "goodsPrice" : 2999
+        },
+        {
+            "goodsImg" : "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/b8c63a2024528fe5410ebe669b7d2407.jpg",
+            "goodsId" : "10086431645343",
+            "goodsName" : "Redmi全自动波轮洗衣机1A 8kg",
+            "goodsintro" : "一键操作父母都爱应用",
+            "goodsPrice" : 699
+        }
+    ]
+}
