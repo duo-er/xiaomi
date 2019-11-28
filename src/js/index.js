@@ -45,7 +45,15 @@ define(['jquery' , '../server/main', './modules/banner' , './modules/goods'],fun
         $('img').each(function(i,elem){
             if( $(elem).offset().top <= viewH + scrollT ){   //说明这张图进入可视区了
                 var imgSrc = $(elem).attr('data-src');
-                $(elem).attr('src' , imgSrc);
+
+                if(imgSrc===undefined){
+                   
+                }else if(imgSrc==='undefined'){
+
+                }else{
+                    $(elem).attr('src' , imgSrc);
+                }
+                
             }
         });
 
