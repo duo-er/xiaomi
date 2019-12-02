@@ -9,7 +9,7 @@ define(['jquery'],function($){
         let banner_list = data.banner_list;
         let tmp = `
             ${
-                banner_list.map((v,i)=>{
+                banner_list((v,i)=>{
                     
                    return `<li><a href="${v.imgLink}"><img data-src="${v.imgUrl}"></a></li>`;
                     
