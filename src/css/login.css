@@ -1,0 +1,12 @@
+*{
+	margin:0 ;
+	padding: 0;
+}
+#loginTop{
+	width: 100%;
+	img{
+		background: white;
+		height: 98px;
+		margin-left:74.2px ;
+	}
+}

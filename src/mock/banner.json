@@ -3,24 +3,24 @@
     "code" : 0,
     "banner_list" : [
         {
-            "imgUrl" : "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/e8e3ff53baa4c3d683765f4ca9b276d2.jpg",
-            "imgLink" : "https://item.mi.com/product/10000198.html"
+            "imgUrl" : "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/1048d9bc8e45feb0d2db085d9f33cd61.jpg?w=2452&h=920",
+            "imgLink" : "https://item.mi.com/product/10000204.html?cfrom=search&selected=10000204&pClass=p"
         },
         {
-            "imgUrl" : "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/06c72a097d543daccbb7174f796f5cb8.jpg",
-            "imgLink" : "http://www.mi.com/redminote8pro"
+            "imgUrl" : "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/a4aa0cbfad7de34618c4bebdbdeee4e1.jpg?thumb=1&w=1533&h=575&f=webp&q=90",
+            "imgLink" : "http://www.mi.com/redminote8"
         },
         {
-            "imgUrl" : "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/2e5d161390c968859fcc4bccd6f0110c.jpg",
-            "imgLink" : "https://www.mi.com/a/h/12798.html"
+            "imgUrl" : "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/e45bcdea59448cd82360662a331409fc.jpg?thumb=1&w=1533&h=575&f=webp&q=90",
+            "imgLink" : "https://www.mi.com/a/h/13229.html"
         },
         {
-            "imgUrl" : "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/e52c3e98602b90f198ec316dce253cba.jpg",
-            "imgLink" : "https://www.mi.com/mitv4c/32"
+            "imgUrl" : "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/a38b1d56409913d5dc869023ade36d94.jpg?thumb=1&w=1533&h=575&f=webp&q=90",
+            "imgLink" : "https://www.mi.com/mitvall-screen/e32a"
         },
         {
-            "imgUrl" : "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/05bc8af40fc9f9941808d253034c279d.jpg",
-            "imgLink" : "https://item.mi.com/product/9959.html"
+            "imgUrl" : "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/755aca9487082e7698e16f17cfb70839.jpg?thumb=1&w=1533&h=575&f=webp&q=90",
+            "imgLink" : "https://www.mi.com/miwatch/color"
         }
     ]
 }

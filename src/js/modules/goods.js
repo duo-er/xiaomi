@@ -3,7 +3,7 @@ define(['jquery'],function($){
     function goodsInit( type , data){
         var $parent = $(`#${type}`);
         var tmp = `
-        <img data-src="${data.style}" alt="" >
+        <img src="${data.style}" alt="" >
             <h2>${data.title}</h2>
             <img data-src="${data.img}" alt="" class="image">
             <ul class="clearfix">

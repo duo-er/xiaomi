@@ -1,7 +1,7 @@
 define(['jquery' , '../server/main', './modules/banner' , './modules/goods'],function($ , { getBannerData , getGoodsData , isLogin } , { bannerInit } , { goodsInit }){
     
     
-    showImg();
+     showImg();
     //首页Banner操作
     getBannerData().then(function(res){
         bannerInit(res);
@@ -28,15 +28,15 @@ define(['jquery' , '../server/main', './modules/banner' , './modules/goods'],fun
 
     //是否登录
 
-    isLogin().then(function(res){
-        console.log( res );
-    });
+    // isLogin().then(function(res){
+    //     console.log( res );
+    // });
 
     
 
     $(document).scroll(showImg);
 
-
+//懒加载
     function showImg(){
 
         var viewH = $(window).height();
